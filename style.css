@@ -1,0 +1,67 @@
+.container{
+	width: 60%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#sidebar{
+	float: left;
+	width: 45%;
+	margin-top:40px;
+}
+#content{
+	float: left;
+	width: 55%;
+}
+#avatar{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+.title{
+	text-align: center;
+}
+.head{
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+}
+.contact{
+	font-size: 15px;
+	color: blue;
+	font-weight: bold;
+}
+.skills{
+	text-align: center;
+}
+.education{
+	font-size: 15px;
+	color:blue;
+	font-weight: bold;
+}
+.right_titles{
+	margin-left: 50px;
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+}
+.list{
+	font-size: 18px;
+	color:blue;
+	font-weight: bold;
+}
+.parag{
+	font-size: 10px;
+	margin-left: 50px;
+}
+.string{
+	margin-left: 50px;
+}
+#left_col{
+	width: 50%;
+	margin-left: 50px;
+	float:left;
+}
+#right_col{
+	width: 50%;
+}
+
